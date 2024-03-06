@@ -1,0 +1,77 @@
+.tituloprincipal{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.pestañas{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 190px;
+    height: 30px;
+    padding: 2px;
+}
+
+.pestañas:hover{
+    background-color: gray;
+
+}
+
+
+.navegador{
+    text-align: center;
+    background-color: black;
+
+}
+
+.introduccion{
+    text-align: center;
+
+}
+
+.quees{
+    background-color: darkred;
+}
+
+.descripcion{
+    background-color:black;
+    color: white;
+}
+
+.sintomas{
+    text-align: right;
+    background-color: darkred;
+}
+
+.descripcion2{
+    text-align: right;
+    background-color: black;
+    color: white;
+}
+
+.tratamiento{
+    background-color: darkred;
+}
+
+.descripcion3{
+    background-color: black;
+    color: white;
+}
+
+.imagen{
+    width: 475px;
+    height: 275px;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+footer{
+    background-color: darkblue;
+    border-color: black;
+}
